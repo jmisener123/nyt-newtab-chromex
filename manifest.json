@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "NYT New Tab Grid",
+    "description": "Replaces the new tab page with a grid of top New York Times stories.",
+    "version": "1.0.0",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    }
+  }
+  
+  

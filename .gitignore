@@ -1,0 +1,20 @@
+config.js
+# Node
+node_modules/
+
+# Mac OS
+.DS_Store
+
+# Cursor / editor
+.idea/
+.vscode/
+
+# No mp3s, no backups
+*.mp3
+*.m4a
+*.jpg
+*.png
+*.pdf
+
+# Build files
+dist/
