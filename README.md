@@ -30,6 +30,7 @@ This extension requires a New York Times API key.
 
 ```js
 export const NYT_API_KEY = "YOUR_API_KEY_HERE";
+```
 
 ## Installation
 
