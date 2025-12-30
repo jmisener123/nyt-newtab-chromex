@@ -21,6 +21,18 @@ Built as a personal project to explore Chrome extensions, client-side APIs, and 
 
 ## How to use it (local install)
 
+## Setup (API key required)
+
+This extension requires a New York Times API key.
+
+1. Create a `config.js` file in the project root
+2. Add the following:
+
+```js
+export const NYT_API_KEY = "YOUR_API_KEY_HERE";
+
+## Installation
+
 1. Open Chrome and go to:
    chrome://extensions
 
