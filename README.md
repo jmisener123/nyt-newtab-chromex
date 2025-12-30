@@ -5,6 +5,10 @@ A lightweight Chrome extension that replaces the New Tab page with a clean, cust
 Built as a personal project to explore Chrome extensions, client-side APIs, and browser UI customization.
 
 ---
+## Preview
+
+![NYT New Tab Extension preview](screenshots/newtabpreview.png)
+
 
 ## What it does
 
